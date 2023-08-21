@@ -1,0 +1,10 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Roboto+Condensed&display=swap');
+body{
+    background-image: url("https://images.unsplash.com/photo-1487064835902-6f99ba5baa5b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fHw%3D&w=1000&q=80");
+    background-size:cover;
+    background-repeat:no-repeat;
+    color: #00ccff;
+    font-family: 'Barriecito', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+}
